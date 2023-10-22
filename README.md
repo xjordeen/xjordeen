@@ -1,18 +1,14 @@
-### Hi There
-## Hi There
-# Hi 
-
 # Hello, I'm Jorden 👋
 Pronouns: She/her
 
 I'm a passionate beginner developer who loves to code and learn new things. I have a strong desire to expand my skills and build a successful career in the tech industry.
 
 🌱 **I'm Currently Learning:**
-- HTML/CSS; JavaScript; Github; Bootstrap; APIs; Visual Studio Code 
+- JavaScript; Github; Bootstrap; APIs 
 
 
 🚀 **My Projects:**
-- [Weather App]([link](https://github.com/xjordeen/Weather-App)): A brief description of the project and its technologies.
+- [Weather App](https://github.com/xjordeen/Weather-App): A brief description of the project and its technologies.
 - [Project Name](link): A brief description of the project and its technologies.
 - [Project Name](link): A brief description of the project and its technologies.
 
