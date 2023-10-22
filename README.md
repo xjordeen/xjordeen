@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi There
+## Hi There
+# Hi 
 
-<!--
-**xjordeen/xjordeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Jorden 👋
+Pronouns: She/her
 
-Here are some ideas to get you started:
+I'm a passionate beginner developer who loves to code and learn new things. I have a strong desire to expand my skills and build a successful career in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I'm Currently Learning:**
+- HTML/CSS; JavaScript; Github; Bootstrap; APIs; Visual Studio Code 
+
+
+🚀 **My Projects:**
+- [Weather App]([link](https://github.com/xjordeen/Weather-App)): A brief description of the project and its technologies.
+- [Project Name](link): A brief description of the project and its technologies.
+- [Project Name](link): A brief description of the project and its technologies.
+
+<!-- 🔗 **Connect with Me:**
+- [LinkedIn](your LinkedIn profile link)
+- [Twitter](your Twitter profile link) -->
+
+📫 **How to Reach Me:**
+- Email: [Your Email Address]
+
+⚡ **Fun Fact:**
+- 
+
+Feel free to check out my projects, and if you'd like to collaborate or provide any guidance, I'd be more than happy to connect with you! 😄
