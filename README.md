@@ -17,10 +17,10 @@ I'm a passionate beginner developer who loves to code and learn new things. I ha
 - [Twitter](your Twitter profile link) -->
 
 📫 **How to Reach Me:**
-- Email: [Your Email Address]
+- Email: jordenslater@gmail.com
 
 ⚡ **Fun Fact:**
 - I've got a supercharged knack for untangling tricky dilemmas and conjuring up ingenious solutions!
-- *a.k.a My superpower is being able to figure it out*
+     *a.k.a My superpower is being able to figure it out* 
 
 Feel free to check out my projects, and if you'd like to collaborate or provide any guidance, I'd be more than happy to connect with you! 😄
