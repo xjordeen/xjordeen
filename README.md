@@ -4,7 +4,7 @@ Pronouns: She/her
 I'm a passionate beginner developer who loves to code and learn new things. I have a strong desire to expand my skills and build a successful career in the tech industry.
 
 🌱 **I'm Currently Learning:**
-- JavaScript; Github; Bootstrap; APIs 
+- React
 
 
 🚀 **My Projects:**
